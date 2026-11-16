@@ -1,4 +1,5 @@
 # 🎓 RAG-Based University Academic Assistant Using Local LLMs
+Deploy link - https://university-academic-assistant-using.vercel.app/
 
 An intelligent, privacy-focused academic assistant that helps university students access information from academic documents, university regulations, course materials, notes, and PDFs using **Retrieval-Augmented Generation (RAG)** and locally running Large Language Models (LLMs).
 
