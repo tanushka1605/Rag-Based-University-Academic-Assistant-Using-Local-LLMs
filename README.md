@@ -1,4 +1,4 @@
-University Academic Assistant Using Local LLMs
+##University Academic Assistant Using Local LLMs
 A role-based university academic assistant prototype designed to make academic information easier to access through a conversational interface. The project presents separate dashboards for students, professors, and administrators, with a proposed Retrieval-Augmented Generation (RAG) architecture powered by locally hosted Large Language Models (LLMs).
 Project status: The repository currently contains a frontend prototype built with React, TypeScript, Vite, and Tailwind CSS. The dashboards, navigation, demo sign-in, and sample chat interactions are implemented with local/mock data. A working RAG backend, local LLM connection, vector database, persistent database, and production authentication are not yet integrated. The local-LLM architecture described below represents the intended direction of the project.
 
